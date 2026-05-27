@@ -1,7 +1,7 @@
 {
   "id": "seamless-embeds",
   "name": "Seamless Embeds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "description": "Makes embedded/transcluded notes visually indistinguishable from surrounding text.",
   "author": "5krus",
